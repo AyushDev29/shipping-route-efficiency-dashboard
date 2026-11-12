@@ -1,5 +1,7 @@
 # Nassau Candy — Shipping Route Efficiency Dashboard
 
+🚀 **Live Dashboard**: https://shipping-route-efficiency-dashboard.streamlit.app/
+
 ## How to run
 
 1. Install Python 3.9+ if you don't have it.
